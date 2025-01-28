@@ -56,5 +56,3 @@ node server.js
 - If a file is missing, the server responds with:  
   **`404 Not Found`** and displays a simple error page.
 - If there is a server-side error, it sends a **500 Internal Server Error** response.
-
----
