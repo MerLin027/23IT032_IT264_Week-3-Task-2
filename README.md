@@ -58,4 +58,4 @@ node server.js
 - If there is a server-side error, it sends a **500 Internal Server Error** response.
 
 ---
-** Author: Vrushank Ganatra**
+**Author: Vrushank Ganatra**
