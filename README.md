@@ -30,8 +30,8 @@ Ensure you have **Node.js** installed on your system.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/MerLin027/23IT032_IT264_Week-3-Task-2.git
+cd 23IT032_IT264_Week-3-Task-2
 ```
 
 ### Install Dependencies (if any)
